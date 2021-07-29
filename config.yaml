@@ -1,0 +1,12 @@
+baseURL: "https://antelopedb.github.io/"
+languageCode: "en-us"
+title: "Antelope DB"
+disableKinds:
+  - taxonomy
+  - taxonomyTerm
+  - RSS
+googleAnalytics: ''
+params:
+  author: "Antelope DB"
+  description: "ANTELOPE DB - New HTAP database"
+  github_org: https://github.com/antelopedb
